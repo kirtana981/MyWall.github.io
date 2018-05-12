@@ -1,0 +1,113 @@
+body {
+	
+	background: url('https://png.pngtree.com/thumb_back/fw800/back_pic/03/61/32/8257a734a256950.jpg') no-repeat;
+	background-size: cover;
+	font-family: Arial;
+}
+ul{
+	margin: 50x;
+	padding: 0px;
+	list-style: none;
+}
+
+ul li {
+	float:left;
+	width:370px;
+	height:50px;
+	background-color: white;
+	opacity: 0.5;
+	line-height: 40px;
+	text-align: center;
+	font-size: 40px;
+}
+
+ul li a {
+	text-decoration: none;
+	color: black;
+	display: block;
+}
+
+ul li a:hover {
+	background-color: cyan;
+} ') ;
+	
+	font-family: Arial;
+}
+ul{
+	margin: 50x;
+	padding: 0px;
+	list-style: none;
+}
+
+ul li {
+	float:left;
+	width:370px;
+	height:50px;
+	background-color: white;
+	opacity: 0.5;
+	line-height: 40px;
+	text-align: center;
+	font-size: 40px;
+}
+
+ul li a {
+	text-decoration: none;
+	color: black;
+	display: block;
+}
+
+ul li a:hover {
+	background-color: cyan;
+} 
+
+
+.text-b {
+	opacity:0.75;
+    position: absolute;
+    bottom: 150px;
+    left: 130px;
+    background-color: grey;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+	font-size:40px;
+}
+
+
+.text-bl {
+	opacity:0.75;
+    position: absolute;
+    bottom: 110px;
+    left: 475px;
+    background-color: grey;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+	font-size:40px;
+}
+
+
+.text-blo {
+	opacity:0.75;
+    position: absolute;
+    bottom: 70px;
+    left: 835px;
+    background-color: grey;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+	font-size:40px;
+}
+
+
+.text-block {
+	opacity:0.75;
+    position: absolute;
+    bottom: 30px;
+    left: 1215px;
+    background-color: grey;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+	font-size:40px;
+}
